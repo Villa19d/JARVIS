@@ -1,0 +1,1 @@
+"""Allowlisted system capabilities for JARVIS."""
